@@ -1,0 +1,5 @@
+/* tailwindcss v3 */
+/* stylelint-disable */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

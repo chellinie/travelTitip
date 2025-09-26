@@ -1,0 +1,50 @@
+{
+  "name": "traveltitip",
+  "version": "1.0.0",
+  "description": "TravelTitip is an application designed to help users manage and organize travel requests and deliveries efficiently.\r ![Home Screen](static\\picture\\app\\homepage.jpeg)",
+  "main": "tailwing.config.js",
+  "dependencies": {
+    "agent-base": "^7.1.4",
+    "autoprefixer": "^10.4.21",
+    "base64-js": "^1.5.1",
+    "bignumber.js": "^9.3.1",
+    "buffer-equal-constant-time": "^1.0.1",
+    "debug": "^4.4.1",
+    "ecdsa-sig-formatter": "^1.0.11",
+    "extend": "^3.0.2",
+    "gaxios": "^6.7.1",
+    "gcp-metadata": "^6.1.1",
+    "google-auth-library": "^9.15.1",
+    "google-logging-utils": "^0.0.2",
+    "gtoken": "^7.1.0",
+    "https-proxy-agent": "^7.0.6",
+    "is-stream": "^2.0.1",
+    "json-bigint": "^1.0.0",
+    "jwa": "^2.0.1",
+    "jws": "^4.0.0",
+    "ms": "^2.1.3",
+    "node-fetch": "^2.7.0",
+    "postcss": "^8.5.6",
+    "safe-buffer": "^5.2.1",
+    "tailwindcss": "^4.1.13",
+    "tr46": "^0.0.3",
+    "uuid": "^9.0.1",
+    "webidl-conversions": "^3.0.1",
+    "whatwg-url": "^5.0.0",
+    "ws": "^8.18.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chellinie/travelTitip.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chellinie/travelTitip/issues"
+  },
+  "homepage": "https://github.com/chellinie/travelTitip#readme"
+}

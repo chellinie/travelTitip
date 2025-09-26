@@ -1,0 +1,17 @@
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #EBF0F5;
+}
+.font-lora {
+    font-family: 'Lora', serif;
+}
+.popup-hidden {
+    opacity: 0;
+    transform: translateY(20px);
+    visibility: hidden;
+}
+.popup-visible {
+    opacity: 1;
+    transform: translateY(0);
+    visibility: visible;
+}
